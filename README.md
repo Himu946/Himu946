@@ -42,7 +42,7 @@ I build full-stack web applications and Salesforce CRM solutions for a manufactu
 
 **Software Engineer — Salesforce Administration & Development** · Padmini VNA Mechatronics · *Nov 2025 – Present*
 
-Sole developer of in-house applications used across the organization:
+Built in-house applications used across the organization:
 
 - **📹 CCTV & Infrastructure Monitoring Platform** — real-time dashboard for servers, IP cameras, DVRs/NVRs and network devices with live WebSocket updates, automated alerts, outage tracking, incident history, JWT auth with role-based access, and PDF/Excel/CSV reports. *React · Node.js · Express · SQL · WebSockets*
 - **🎫 IT Operations Platform** — IT ticketing and service management for the IT team.
